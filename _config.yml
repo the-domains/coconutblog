@@ -1,0 +1,14 @@
+layout_spectrum: 0.28629179834388196
+typography_spectrum: 0.8730012937448919
+color:
+  brandStrength: 0.2885735190939158
+  lightness: 0.9582348659168929
+  saturation: 0.8118689553812146
+  rhythmicContrast: 0.08374560228548944
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: coconutblog
